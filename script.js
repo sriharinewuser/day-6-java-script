@@ -41,8 +41,7 @@ class person{
     console.log(person1.gender);
     console.log(person1.salary);
 
-// example
-
+// class circle
 class Circle{
     constructor(radius,color){
         this.radius = radius;
